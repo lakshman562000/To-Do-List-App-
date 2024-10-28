@@ -11,7 +11,8 @@ Simple and intuitive to-do list app for Android devices. Create, edit, and manag
 
 Built using Java and Android SDK.
 
-![001 Screenshot_20241028_175506](https://github.com/user-attachments/assets/79e6ba8e-5fe7-4579-9337-8d83d8d6e2e5)
+
+![01__To Screenshot_20241028_175955](https://github.com/user-attachments/assets/0d784039-9cae-4b54-94e2-8fcbe6ca48e6)
 ![2 Screenshot_20241028_173446](https://github.com/user-attachments/assets/adfb71b8-2ec4-4567-adf6-efd8febfae0d)
 
 
@@ -40,22 +41,22 @@ Built using Java and Android SDK.
 2. Open Android Studio and import the project
 3. Build and run the app on an Android device or emulator
 
-# APIs and Libraries
+# APIs and Libraries:
 
 - Android SQLite API
 - Material Design Library
 
-# Contributing
+# Contributing:
 
 1. Fork the repository
 2. Make changes and commit
 3. Create a pull request
 
-# License
+# License:
 
 This project is licensed under the MIT License.
 
-# Acknowledgments
+# Acknowledgments:
 
 - Inspired by Google's To-Do List app
 - Icon design by Lakshman Chaudhary
