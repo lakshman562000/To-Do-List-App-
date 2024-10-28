@@ -11,7 +11,7 @@ Simple and intuitive to-do list app for Android devices. Create, edit, and manag
 
 Built using Java and Android SDK.
 
-![01 Screenshot_20241028_173503](https://github.com/user-attachments/assets/a05978db-a2ef-402f-8c4c-ae385a29c67a)
+![001 Screenshot_20241028_175506](https://github.com/user-attachments/assets/79e6ba8e-5fe7-4579-9337-8d83d8d6e2e5)
 ![2 Screenshot_20241028_173446](https://github.com/user-attachments/assets/adfb71b8-2ec4-4567-adf6-efd8febfae0d)
 
 
